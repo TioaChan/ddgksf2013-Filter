@@ -39,3 +39,5 @@ DOMAIN,analytics.strava.com
 # > umeng
 DOMAIN,msg.umeng.com
 DOMAIN,msg.umengcloud.com
+# Honkai: Star Rail - HoYoverse
+DOMAIN-SUFFIX,hoyoverse.com
